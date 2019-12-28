@@ -1,4 +1,4 @@
-# Searching-Images
+# Image Searching
 the problem of retrieving visually similar images from a (large) database of images. using text mining techniques to search for images based on their visual content by creating the visual equivalent of words. This is done using local ORB descriptors then clustring them.
 the [Data](https://archive.org/details/ukbench) is The ukbench set contains many sets of four images, each of the same scene or object
 ## output
